@@ -1,0 +1,7 @@
+ion-toolbar {
+  --background: var(--ion-color-primary);
+  --color: var(--ion-color-primary-contrast);
+  /* it is possible that it will not work on ios 
+  so we'll add --ion-toolbar-color: var(--ion-color-primary-contrast);
+  on variables.css */
+}
